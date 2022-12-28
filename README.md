@@ -17,7 +17,7 @@
 
 Este repositório contém uma solução para um desafio envolvendo análise de dados e é organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python, principalmente se tiver familiaridade com a biblioteca Pandas.
 
-**Desafio:** Analisar, usando Python, os dados de uma empresa de imóveis e fazer o devido tratamento de dados, principalmente para os inúmeros valores nulos. O foco da análise são os imóveis residenciais, um subconjunto da base de dados original.
+**Desafio:** Analisar, usando Python, os dados de uma empresa de imóveis e fazer o devido tratamento de dados, principalmente para os inúmeros valores nulos. O foco da análise são os imóveis residenciais, um subconjunto da base de dados original, em que deve ser realizada a seguintes tarefas: (1) Cálculo do valor bruto para morar em cada imóvel; (2) Cálculo do valor do metro quadrado de cada imóvel; (3) Cálculo do valor médio do aluguel por bairro; (4) Remover os outliers, ou seja, os imóveis com valores muito discrepantes dos outros do bairro.
 
 Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações de aproximadamente 33.000 imóveis e a solução detalhada, em que estão explicações de como foram desenvolvidas ideias.
 
@@ -45,7 +45,16 @@ Estão disponibilizados neste repositório os seguintes arquivos: a base de dado
 * Passo 2: Visualizar a base de dados
     * 2.1 Mostrar os tipos de dados
     * 2.2 Mostrar os tipos de imóveis
-* Passo 3: Categorizar os imóveis residenciais
+    * 2.3 Identificar os imóveis residenciais
+* Passo 3: Tratar os dados
+    * 3.1 Excluir colunas desnecessárias
+    * 3.2 Tratar valores nulos do aluguel
+    * 3.3 Tratar valores nulos do condomínio
+* Passo 4: Resolver as tarefas
+     * 4.1 Fazer o cálculo do valor bruto para morar em cada imóvel
+     * 4.2 Fazer o cálculo do valor do metro quadrado de cada imóvel
+     * 4.3 Fazer o cálculo do valor médio do aluguel por bairro
+     * 4.4 Remover os outliers
 
 
 ## Conclusões 
