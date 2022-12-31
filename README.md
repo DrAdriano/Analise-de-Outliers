@@ -21,7 +21,7 @@ Este repositório contém uma solução para um desafio envolvendo análise de d
 **Desafio:** Analisar, usando Python, os dados de uma empresa de aluguel de imóveis e fazer o devido tratamento de dados, principalmente para os inúmeros valores nulos, conhecidos como <i>valores missing</i>. O foco da análise são os imóveis residenciais, um subconjunto da base de dados original, em que deve ser realizada a seguintes tarefas: (1) Cálculo do valor bruto para morar em cada imóvel; (2) Cálculo do valor do metro quadrado de cada imóvel; (3) Contar a quantidade de imóveis que possuem até 2 quartos, depois 3 e 4 quartos, 5 e 6 e a faixa final de 7 ou mais quartos; (4) Cálculo dos valores estatísticos descritivos do aluguel por bairro; (5) Usando o Box Plot (Ver a figura abaixo), remover os outliers, ou seja, os imóveis com valores muito discrepantes dos outros.
 
 <div  align="center"> 
-  <img src="Box-Plot.png" width=50%>
+  <img src="Box-Plot.png" width=40%>
 </div>
 
   - Q1: Valor referente ao primeiro quartil (25%).
