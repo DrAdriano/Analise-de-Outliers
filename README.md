@@ -27,8 +27,8 @@ Este repositório contém uma solução para um desafio envolvendo análise de d
   - Q1: Valor referente ao primeiro quartil (25%).
   - Q3: Valor referente ao terceiro quartil (75%).
   - IIQ: Intervalo interquartílico, a variação entre o primeiro e o terceito quartil.
-  - Limite inferior: representado pela expressão Q1 - 1.5 $\times$ IIQ, uma métrica para saber quais valores inferiores estão muito discrepantes, com relação aos outros.
-  - Limite superior: representado pela expressão Q3 + 1.5 $\times$ IIQ, para retirar os valores superios muito destoantes.
+  - Limite inferior: representado pela expressão Q1 - 1.5 $\times$ IIQ, uma métrica para saber quais valores inferiores estão muito discrepantes com relação aos outros.
+  - Limite superior: representado pela expressão Q3 + 1.5 $\times$ IIQ, para retirar os valores superiores muito destoantes.
 
 Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações, como valor do aluguel e condomínio, de aproximadamente 33.000 imóveis; a solução detalhada, feita no Jupyter Nootebook, em que estão explicações de como foram desenvolvidas ideias; a imagem com o esquema do Box Plot; e a pasta com arquivos gerados no código, como a base de dados tratada, gráficos e capturas de tela.
 
