@@ -25,7 +25,11 @@ Estão disponibilizados neste repositório os seguintes arquivos: a base de dado
 
 ## About the project
 
-[Em construção ⚠️]
+This repository contains a solution to a challenge involving data analysis and is organized in a detailed and accessible way, which can be understood by anyone who is new to the Python language, especially if they are familiar with the Pandas library.
+
+**Challenge:** Analyze the data of a real estate rental company and process the data properly, especially for the numerous null values, known as missing values. The focus of the analysis is residential properties, a subset of the original database, which needs to have outliers, that is, data with values that are very different from the others, removed.
+
+The files are available in this repository: the database, which contains information, such as rent and condominium fees, for approximately 33,000 properties; the detailed solution, made in Jupyter Notebook, in which there are explanations of how ideas were developed; the final solution, adapted for Visual Studio Code from the detailed solution, but developed without the visual clutter of comments; the Box Plot schematic image used throughout the README; and the folder with files generated in the code, such as the treated database, graphics and screen captures.
 
 ## Linguagens e tecnologias usadas
 
