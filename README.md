@@ -13,23 +13,21 @@
 * [Créditos](#créditos)
 * [Contato](#contato)
 
-
-
 ## Sobre o projeto
 
-Este repositório contém uma solução para um desafio envolvendo análise de dados e está organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python, principalmente se tiver familiaridade com as biblioteca Pandas.
+Este repositório contém uma solução para um desafio envolvendo análise de dados e está organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python, principalmente se tiver familiaridade com as biblioteca Pandas. Esse é um projeto de portfólio, que também tem como objetivo colocar em prática, bem como documentar, alguns dos meus conhecimentos de Python, por isso, nem sempre desenvolvo a Solução Detalhada da maneira mais objetiva.
 
 **Desafio:** Analisar os dados de uma empresa de aluguel de imóveis e fazer o devido tratamento de dados, principalmente para os inúmeros valores nulos, conhecidos como <i>valores missing</i>. O foco da análise são os imóveis residenciais, um subconjunto da base de dados original, que precisa ter os outliers, isto é, os dados com valores muito discrepantes dos outros, retirados.
 
-Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações, como valor do aluguel e condomínio, de aproximadamente 33.000 imóveis; a solução detalhada, feita no Jupyter Nootebook, em que estão explicações de como foram desenvolvidas ideias; a solução final, adaptada para o Visual Studio Code a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; a imagem com o esquema do Box Plot, usada no decorrer do README; e a pasta com arquivos gerados no código, como a base de dados tratada, gráficos e capturas de tela.
+Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações, como valor do aluguel e condomínio, de aproximadamente 33.000 imóveis; a solução detalhada, desenvolvida no Jupyter Nootebook; a solução final, adaptada para o Visual Studio Code a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; a imagem com o esquema do Box Plot, usada no decorrer do README; e a pasta com arquivos gerados no código, como a base de dados tratada, gráficos e capturas de tela.
 
 ## About the project
 
-This repository contains a solution to a challenge involving data analysis and is organized in a detailed and accessible way, which can be understood by anyone who is new to the Python language, especially if they are familiar with the Pandas library.
+This repository contains a solution to a challenge involving data analysis and is organized in a detailed and accessible way, which can be understood by anyone who is new to the Python language, especially if they are familiar with the Pandas library. This is a portfolio project, which also aims to put into practice, as well as document, some of my Python knowledge, so I don't always develop the Detailed Solution in the most objective way.
 
-**Challenge:** Analyze the data of a real estate rental company and process the data properly, especially for the numerous null values, known as missing values. The focus of the analysis is residential properties, a subset of the original database, which needs to have outliers, that is, data with values that are very different from the others, removed.
+**Challenge:** Analyze the data of a real estate rental company and process the data properly, especially for the numerous null values, known as <i>missing values</i>. The focus of the analysis is residential properties, a subset of the original database, which needs to have outliers, that is, data with values that are very different from the others, removed.
 
-The files are available in this repository: the database, which contains information, such as rent and condominium fees, for approximately 33,000 properties; the detailed solution, made in Jupyter Notebook, in which there are explanations of how ideas were developed; the final solution, adapted for Visual Studio Code from the detailed solution, but developed without the visual clutter of comments; the Box Plot schematic image used throughout the README; and the folder with files generated in the code, such as the treated database, graphics and screen captures.
+The following files are available in this repository: the database, which contains information, such as rent and condominium fees, for approximately 33,000 properties; the detailed solution, made in Jupyter Notebook, in which there are explanations of how ideas were developed; the final solution, adapted for Visual Studio Code from the detailed solution, but developed without the visual clutter of comments; the Box Plot schematic image used throughout the README; and the folder with files generated in the code, such as the treated database, graphics and screen captures.
 
 ## Linguagens e tecnologias usadas
 
